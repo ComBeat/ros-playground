@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_ubuntu_ros1__41017: http://ubuntu-ros1:41017/
+rosversion: '1.15.8
+
+  '
+run_id: 431d3650-0ef0-11eb-b0d6-336a3626c9ed
+turtlesim:
+  background_b: 80
+  background_g: 127
+  background_r: 255
